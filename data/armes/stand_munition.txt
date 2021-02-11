@@ -1,0 +1,8 @@
+Bille (20),mun,1,contendant,None,0.25,1,bille en fer
+Carreau à tête ronde (5),mun,1,contendant,None,0.5,3,stune en cas de critique/ chargeur: [5]
+Carreau basique (10),mun,1D2,perforant/tranchant,None,0.5,1,carreau simple/ chargeur: [10]
+Carreau explosif (1),mun,1D6,perforant,None,1,10,perforant,repousse/ chargeur: [3]
+Flèche à tête ronde (20),mun,1,contendant,None,1,3,stune en cas de critique
+Flèche basique (20),mun,1D4,perforant/tranchant,None,1,1, peut être charger de magie
+Flèche cranter (10),mun,1D2/tour,perforant,None,1,5,si elle est retirer par la force: perd 1d4 pv
+Pierre,mun,1,contendant,None,0.025,0,munition naturelle

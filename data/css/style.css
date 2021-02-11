@@ -1,0 +1,45 @@
+body{
+	background-color: black;
+	color: white;
+}
+
+.intro{
+	text-align: center;
+}
+
+.navigation{
+	text-align: center;
+}
+
+table{
+	margin-top: 0px;
+	border-collapse: separate;
+	border: 5px solid rgb(150,150,150);
+}
+
+td{
+	border: 1px solid rgb(100,100,100);
+}
+
+th{
+	border: 1px solid rgb(100,100,100);
+	text-align: left;
+}
+
+.title_tab{
+	text-align: center;
+}
+
+.cell{
+	background-color: rgb(0,0,100);
+}
+
+.Armes{
+	margin-left: 0px;
+	margin-top: 10px;
+}
+
+.Armures{
+	margin-left: 0px;
+	margin-top: 10px;
+}

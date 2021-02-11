@@ -1,0 +1,4 @@
+Armure matlassée,+1,5 Kg,5 po,Gambison/tenus en laine
+Armure de cuir,+2,7.5 Kg,10 po,None
+Armure de cuir cloutée,+3,10 Kg,25 po,None
+Armure de maille,+4,12.5 Kg,100 po,None

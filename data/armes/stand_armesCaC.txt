@@ -1,0 +1,61 @@
+Attaque_a_mains_nue_(taille_P),CàC [0m],1D2,contendant,20 [x2],0 Kg,0 po,None
+Attaque_a_mains_nue_(taille_M),CàC [0m],1D3,contendant,20 [x2],0 Kg,0 po,None
+Bâton,CàC [0m],1D8/1D8,contendant,20 [x2],3 Kg,10 po,Arme double
+Cimeterre,CàC [3m],1D8,tranchant,20 [x2],5 Kg,20 po,None
+Couteau,CàC [0m],1D4,perforant,20 [x2],0.5 Kg,5 po,None
+Dague,CàC [0m],1D6,perforant,19-20 [x2],1 Kg,10 po,None
+Épée à deux mains,CàC [0m],2D6,tranchant,19-20 [x2],7.5 Kg,50 Po,None
+Épée courte,CàC [0m],1D6,tranchant,20 [x2],4 Kg,13 po,None
+Épée longue,CàC [0m],1D8,tranchant,20 [x2],6 Kg,16 po,None
+Gantelet,CàC [0m],1D2_P/1D3_M,contendant,20 [x2],1 Kg,3 po,None
+Gourdin,CàC [0m],1D4,contandant,20 [x2],1.5 Kg,8 po,None
+Gourdin clouté,CàC [0m],1D6,perforant,20 [x2],1.8 Kg,12 po,None
+Lance,CàC [0m],1D8,perforant,20 [x2],1.8 Kg,12 po,Bonus x2 dégâts contre charge
+Machette,CàC [0m],1D6,tranchant,19-20 [x2],3.5 Kg,12 po,None
+Masse d'armes légère,CàC [0m],1D6,contandant/perforant,20 [x2],4 Kg,10 po,None
+Masse d'armes lourde,CàC [0m],1D8,contandant/perforant,20 [x2],6 Kg,15 po,None
+Sabre,CàC [0m],1D6,tranchant,20 [x2],4.5 Kg,18 po,None
+Dague coup de poing,CàC [0m],1D4,perforant,19-20 [x3],0 Kg,2 po,None
+Gantelet clouter,CàC [0m],1D4,perforant,20 [x2],1 Kg,5 po,doublé si 2
+Serpe,CàC [1m],1D6,tranchant,20 [x2],1.5 Kg,6 po,None
+Kama (halfelin),CàC [0m],1D4,tranchant,20 [x2],0.5 Kg,2 po,bénéficie des bonus moine
+Kukri,CàC [0m],1D4,tranchant,18-20 [x2],1.5 Kg,8 po,None
+Nunchaku (halfelin),CàC [0m],1D4,contendant,20 [x2],0.5 Kg,2 po,bénéficie des bonus moine
+Siangham (halfelin),CàC [0m],1D4,perforant,20 [x2],0.5 Kg,2 po,petite lance
+Hache de lancer,CàC [3m],1D6,tranchant,20 [x2],1.5 Kg,8 po,None
+Hachette,CàC [0m],1D6,tranchant,20 [x3],2.5 Kg,6 po,None
+Lance d'arçon légère,CàC [0m],1D6,perforant,20 [x3],2.5 Kg,6 po,dégâts x2 au galop, tape sur 3m
+Marteau léger,CàC [6m],1D4,contendant,20 [x2],1 Kg,1 po,None
+Matraque,CàC [0m],1D6,contendant,20 [x2],1.5 Kg,1 po,None
+Pic de guerre léger,CàC [0m],1D6,perforant,20 [x4],2 Kg,4 po,None
+Kama,CàC [0m],1D6,tranchant,20 [x2],1 Kg,2 po,bénéficie des bonus moine
+Nunchaku,CàC [0m],1D6,contendant,20 [x2],1 Kg,2 po,bénéficie des bonus moine
+Siangham,CàC [0m],1D6,perforant,20 [x2],0.5 Kg,3 po,petite lance
+Demi pique,CàC [6m],1D6,perforant,20 [x3],1.5 Kg,1 po,contre charge -> dégâts x2
+Morgenstern,CàC [0m],1D8,contendant/perforant,20 [x2],4 Kg,8 po,None
+Fléau d'armes léger,CàC [0m],1D8,contendant,20 [x2],2.5 Kg,8 po,+2_pr_ennemi_si_il_vous_désarme
+Hache d'armes,CàC [0m],1D8,tranchant,20 [x3],3.5 Kg,10 po,None
+Lance d'arçon lourde,CàC [0m],1D8,contendant,20 [x3],0.5 Kg,10 po,dégâts x2 au galop, tape sur 3m
+Marteau de guerre,CàC [0m],1D8,contendant,20 [x3],4 Kg,12 po,None
+Pic de guerre lourd,CàC [0m],1D6,perforant,20 [x4],3 Kg,8 po,None
+Rapière,CàC [0m],1D6,perforant,18-20 [x2],2 Kg,20 po,don Botte Secrète ajoute la DEX
+Trident,CàC [3m],1D8,perforant,20 [x3],2.5 Kg,15 po,contre charge -> dégâts x2
+Épée batarde,CàC [0m],1D10,tranchant,19-20 [x2],0.5 Kg,35 po,1.5 mains pour taille M
+Hache d'armes nain,CàC [0m],1D10,tranchant,20 [x3],7.5 Kg,30 po,impossible pour taille P et PT
+Marteau piolet gnome,CàC [0m],1D6/1D4,contendant/perforant,20 [x3/x4],3 Kg,20 po,arme double, une main taille M
+Lance,CàC [0m],1D8,perforant,20 [x3],2.5 Kg,2 po,contre charge -> dégâts x2
+Cimeterre à deux mains,CàC [0m],2D4,tranchant,18-20 [x2],8 Kg,75 po,+2_pr_adv_si_il_vous_désarme,_porté_3m
+Corsèque,CàC [0m],2D4,perforant,20 [x3],10 Kg,7.5 po,porter/3m,_imposibled'atk/_advadjacent
+Coutille,CàC [0m],1D10,tranchant,20 [x3],7.5 Kg,8 Po,None
+Chaine cloutée,CàC [0m],2D4,perforant,20 [x2],7.5 Kg,25 Po,None
+Double-lame,CàC [0m],1D8/1D8,tranchant,19-20 [x2],7.5 Kg,100 Po,arme double
+Faux,CàC [0m],2D4,perforant/tranchant,20 [x4],6 Kg,18 Po,None
+Fléau d'armes lourd,CàC [0m],1D10,contendant,19-20 [x2],10 Kg,15 Po,+2_pr_ennemi_si_il_vous_désarme
+Fléau double,CàC [0m],1D8/1D8,contendant,20 [x2],10 Kg,90 Po,None
+Guisarme,CàC [0m],1D4,tranchant,20 [x3],7.5 Kg,9 po,porter/_3m,_imposible_d'atk/_adv_adjacent
+Grande hache,CàC [0m],1D12,tranchant,20 [x3],10 Kg,20 Po,None
+Hache double d'orque,CàC [0m],1D8/1D8,tranchant,20 [x3],12.5 Kg,60 Po,arme_double/une_main_taille_G
+Hallebarde,CàC [0m],1D10,perforant/tranchant,20 [x3],7.5 Kg,10 Po,peut_faire_un_croche_patte/_contrecharge->dégâts x2
+Massue,CàC [0m],1D10,contendant,20 [x2],0.5 Kg,5 Po,None
+Pique,CàC [0m],1D8,perforant,20 [x3],4.5 Kg,5 Po,porter_3m/_contrecharge->dégâts x2
+Urgrosh nain,CàC [0m],1D8/1D6,tranchant/perforant,20 [x3],7.5 Kg,50 Po,contrecharge->dégâts x2

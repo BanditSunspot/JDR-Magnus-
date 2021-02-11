@@ -1,0 +1,14 @@
+Arbalète_à_répétition,Dist [25m],1D8,None,19-20 [x2],4 Kg,25 po,mun:_carreau/recharge:_low
+Arbalète_de_poing,Dist [10m],1D4,None,19-20 [x2],4 Kg,15 po,mun:_carreau/recharge:_moy
+Arbalète_de_précision,Dist [42.5m],1D12,None,18-20 [x2],4 Kg,25 po,mun:_carreau/recharge:_low+
+Arbalète_légère,Dist [25m],1D8,None,19-20 [x2],4 Kg,10 po,mun:_carreau/recharge:_moy
+Arbalète_lourde,Dist [40m],1D10,None,19-20 [x2],4 Kg,20 po,mun:_carreau/recharge:_low
+Arc_court,Dist [20m],1D6,None,20 [x3],3 Kg,13 po,mun:_flèche/recharge:_fast
+Arc_court_composite,Dist [22.5m],1D6,None,20 [x3],3 Kg,16 po,mun:_flèche/recharge:_fast
+Arc_long,Dist [30m],1D8,None,20 [x3],3 Kg,22 po,mun:_flèche/recharge:_moy
+Arc_long_composite,Dist [35m],1D8,None,20 [x3],3 Kg,28 po,mun:_flèche/recharge:_moy
+Dard,Dist [6m],1D4,None,20 [x2],2.5 Kg,5 po,mun:_dard/recharge:_moy
+Fouet,Dist [5m],1D2,None,20 [x2],2 Kg,3 po,mun: aucune/ recharge: Fast
+Fronde,Dist [15m],1D4,None,20 [x2],1 Kg,2 po,mun:_bille-pierre/recharge:_fast
+Javeline,Dist [10m],1D6,None,20 [x2],2 Kg,12 po,mun:_javeline/recharge:_low
+Shuriken,Dist [3m],1,None,20 [x2],0.5 Kg,7 po,mun:_Shuriken/recharge:_fast+

@@ -1,0 +1,4 @@
+Armure de plaque,+7,25 Kg,600 Po, plaque de metal (mouvement semi-limité)
+Clibanion,+6,22.5 KG,200 Po, armure constituer de lamelle en metal vertical
+Crevice,+6,17.5 Kg,250 Po,plaque de métal sur une armure de cuir
+Harnois,+8,25 Kg,1500 Po,armure de metal complette, mouvement limité

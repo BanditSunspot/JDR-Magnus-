@@ -1,0 +1,4 @@
+Armure de peau,+3,12.5 Kg,15 po,None
+Armure d'écaille,+4,15 Kg,50 po,None
+Cotte de mailles,+5,20 Kg,150 po,None
+Cuirasse,+5,15 Kg,200 po,None
